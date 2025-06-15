@@ -33,7 +33,7 @@ Includes an **interactive Q&A page** that allows users to ask natural language q
 ## 🖼️ Screenshots
 
 ### Churned Customer Analysis  
-![Churned Customers](http://github.com/idaemrot/Churn-Analysis-using-powerBI/blob/main/IMAGE%201.png)
+![Churned Customers](https://github.com/idaemrot/Churn-Analysis-using-powerBI/blob/main/IMAGE%201.png)
 
 ### Overall Customer Analysis  
 ![Overall Analysis](https://github.com/idaemrot/Churn-Analysis-using-powerBI/blob/main/IMAGE%202.png)
